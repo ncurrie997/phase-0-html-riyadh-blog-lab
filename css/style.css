@@ -32,17 +32,20 @@ h1, h2 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  text-align: center;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  text-align: center;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  text-align: center;
 }
 
 img {
@@ -83,4 +86,16 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+}
+
+a {
+  color: blue;
+  background-color: aquamarine;
+  text-align: center;
+  width: 100%;
+  padding: 5px 7px;
+  display: inline-block;
+
+
+
 }
